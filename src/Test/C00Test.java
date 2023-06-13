@@ -28,14 +28,14 @@ public class C00Test {
 				i++;
 			}
 		
-		for(i=0;i<h;i++) {
-			for(j=0;j<=(h-2)-i;j++) {
-				System.out.print(" ");
-			}
-			for(k=0;k<=2*i;k++) {
-				System.out.print("*");
-			}
-			System.out.println();
+//		for(i=0;i<h;i++) {
+//			for(j=0;j<=(h-2)-i;j++) {
+//				System.out.print(" ");
+//			}
+//			for(k=0;k<=2*i;k++) {
+//				System.out.print("*");
+//			}
+//			System.out.println();
 		}
 	}
 }
